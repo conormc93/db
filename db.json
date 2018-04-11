@@ -66,19 +66,19 @@
     },
     {
       "id": "9",
-      "location": "loc. 9",
-      "name": "Hotel Meyrick",
-      "address": "Eyre Square, Galway",
-      "lat": "53.273987",
-      "lng": "-9.048050"
-    },
-    {
-      "id": "10",
       "location": "loc.10",
       "name": "Ulster Bank",
       "address": "33 Eyre Square, Galway",
       "lat": "53.274517",
       "lng": "-9.050818"
+    },
+    {
+      "id": "10",
+      "location": "loc. 9",
+      "name": "Hotel Meyrick",
+      "address": "Eyre Square, Galway",
+      "lat": "53.273987",
+      "lng": "-9.048050"
     }
   ]
 }
