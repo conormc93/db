@@ -27,18 +27,18 @@
     {
       "id": "4",
       "location": "loc. 4",
-      "name": "Hall of the Red Earl",
-      "address": "Hall of the Red Earl, Druid Lane, Galway",
-      "lat": "53.271019",
-      "lng": "-9.053529"
-    },
-    {
-      "id": "5",
-      "location": "loc. 5",
       "name": "Spanish Parade",
       "address": "Spanish Parade, Galway",
       "lat": "53.269958",
       "lng": "-9.053285"
+    },
+    {
+      "id": "5",
+      "location": "loc. 5",
+      "name": "Hall of the Red Earl",
+      "address": "Hall of the Red Earl, Druid Lane, Galway",
+      "lat": "53.271019",
+      "lng": "-9.053529"
     },
     {
       "id": "6",
