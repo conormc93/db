@@ -11,7 +11,7 @@
     {
       "id": "2",
       "location": "loc. 2",
-      "name": "Cathedral of Our Lady Assumed into Heaven and St. Nicholas?",
+      "name": "Cathedral of Our Lady Assumed into Heaven and St. Nicholas",
       "address": "Galway Cathedral, Galway",
       "lat": "53.275234",
       "lng": "-9.057390"
@@ -43,7 +43,7 @@
     {
       "id": "6",
       "location": "loc. 6",
-      "name": "St. Nicholas? Collegiate Church",
+      "name": "St. Nicholas' Collegiate Church",
       "address": "7 Lombard St, Galway",
       "lat": "53.272728",
       "lng": "-9.053925"
@@ -51,7 +51,7 @@
     {
       "id": "7",
       "location": "loc. 7",
-      "name": "McCambridge?s Of Galway",
+      "name": "McCambridge's Of Galway",
       "address": "38-39 Shop St, Galway",
       "lat": "53.273029",
       "lng": "-9.052312"
@@ -59,7 +59,7 @@
     {
       "id": "8",
       "location": "loc. 8",
-      "name": "Lynch?s Castle",
+      "name": "Lynch's Castle",
       "address": "Shop Street Abbeygate Street, Galway",
       "lat": "53.273170",
       "lng": "-9.052288"
